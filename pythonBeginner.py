@@ -1,2 +1,2 @@
-x = (0, 0, 2, 2)
-print(x[1])
+for i in ['bia', 9, 10]:
+    print(i)
